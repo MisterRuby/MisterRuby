@@ -3,4 +3,5 @@
 - 테스트 코드 작성에 관심이 많습니다.
 
 # Skills
-- Java, Spring, NestJS
+- Back-End : Java, Spring, NestJS
+- Database : MySQL
