@@ -8,4 +8,3 @@
 
 # Skills
 - Back-End : Java, Spring, Node.js, NestJS
-- Database : MySQL
